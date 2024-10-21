@@ -7,3 +7,7 @@
 # 💻 Internships
 - *2021.08 - 2022.01*, ByteDance (Applied Machine Learning Platform), Beijing.
 - *2021.06 - 2021.08*, Kuaishou (Y-tech), Beijing.
+
+
+# Honors and Awards
+- *2024*, Comprehensive Merit Scholarship (first prize of the college)
